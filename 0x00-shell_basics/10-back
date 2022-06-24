@@ -1,2 +1,3 @@
 #!/bin/bash
-/dir$ source ./10-back
+cd -
+
