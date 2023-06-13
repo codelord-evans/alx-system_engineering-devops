@@ -12,7 +12,7 @@ Welcome to the ALX System Engineering & DevOps repository! This repository conta
 
 ## Description
 
-ALX System Engineering & DevOps is a comprehensive program aimed at providing hands-on experience in various areas of system engineering and DevOps. The projects and exercises in this repository cover a wide range of topics, including:
+ALX System Engineering & DevOps is a comprehensive set of projects provided by ALX Africa aimed at providing hands-on experience in various areas of system engineering and DevOps. The projects and exercises in this repository cover a wide range of topics, including:
 
 - Linux administration
 - Networking
