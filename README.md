@@ -96,3 +96,7 @@ Your contributions will be reviewed, and upon acceptance, they will be merged in
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the projects, exercises, and code snippets for learning and educational purposes.
+
+## Author
+
+Evans M. Kioko.
