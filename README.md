@@ -12,7 +12,7 @@ Welcome to the ALX System Engineering & DevOps repository! This repository conta
 
 ## Description
 
-ALX System Engineering & DevOps is a comprehensive program aimed at providing hands-on experience in various areas of system engineering and DevOps. The projects and exercises in this repository cover a wide range of topics, including:
+ALX System Engineering & DevOps is a comprehensive set of projects provided by ALX Africa aimed at providing hands-on experience in various areas of system engineering and DevOps. The projects and exercises in this repository cover a wide range of topics, including:
 
 - Linux administration
 - Networking
@@ -96,3 +96,7 @@ Your contributions will be reviewed, and upon acceptance, they will be merged in
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the projects, exercises, and code snippets for learning and educational purposes.
+
+## Author
+
+Evans M. Kioko.
